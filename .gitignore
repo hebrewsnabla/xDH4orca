@@ -2,4 +2,6 @@
 *.ges 
 *.CIM 
 *.tmp* 
-*prop* 
+*prop*
+*job2*
+ 
